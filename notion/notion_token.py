@@ -1,2 +1,2 @@
-api_database_id = "Your database page ID"
-api_secret = "Your secret"
+api_database_id = "16ba55323d22450aafcbe19ac9c47c1e"
+api_secret = "secret_tsFGVyLcyCYY645jpv7l4A5gVzkEvZmNrgVD0SHk0it"
